@@ -11,5 +11,6 @@ public class Hypot {
       
 
       System.out.println("Длина гипотенузы: " + z);
+        System.out.println(z);
     }
 }
